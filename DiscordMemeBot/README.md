@@ -28,7 +28,7 @@
 Here’s an example of the bot in action:  
 You can use this bot to get memes, random numbers, and even lofi music recommendations on your Discord server.
 ![Meme Bot Example](image.png)  
-![Meme Bot Example](image3.png)
+![Meme Bot Example](image3(update).png)
 ![Meme Bot Example](image2.png)  
 
 ---

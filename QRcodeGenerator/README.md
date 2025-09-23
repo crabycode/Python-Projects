@@ -1,7 +1,7 @@
 # QR Code Generator
 
 > This is the **first final project** I made for finishing my **Codedex journey**:  
-**"The Legend of Python"** is a **QR code generator**, and I used it to generate a QR code to my Instagram page!  
+It is a **QR code generator**, and I used it to generate a QR code to my Instagram page!  
 
 ---
 
