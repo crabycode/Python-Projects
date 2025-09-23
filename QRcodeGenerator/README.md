@@ -9,6 +9,7 @@
 
 - [Features](#features)  
 - [Demo](#demo)  
+- [How to use](#how-to-use)
 - [Future Updates](#future-updates)  
 - [License](#license)  
 
@@ -33,6 +34,9 @@ Here’s an example of a generated QR code:
 You can use this tool to generate QR codes for your website, social media pages, or any other links.  
 
 ---
+
+## How to use
+![Usage Example](usage.png)
 
 ## Future Updates
 
