@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = ""
 
 def gen_para(topic):
     response = openai.Completion.create(
