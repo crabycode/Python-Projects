@@ -8,6 +8,7 @@ Each folder contains a standalone project with its own README and source code.
 
 ## Repo Structure
 
+```
 python-projects/
 │
 ├── 01-QRCodeGenerator/
@@ -38,6 +39,7 @@ python-projects/
 │   └── main.py
 │
 └── README.md
+```
 
 ---
 
